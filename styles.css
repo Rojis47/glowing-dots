@@ -37,8 +37,6 @@ body {
   border-radius: 5px;
   transform: skewX(2deg) skewY(4deg);
 }
-
-
 .box::after {
   content: "";
   position: absolute;
